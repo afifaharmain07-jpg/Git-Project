@@ -5,3 +5,5 @@ I am practising version control.
 
 I learned how to connect Git with GitHub.
 I successfully pushed my first project.
+
+Practising git restore staged
