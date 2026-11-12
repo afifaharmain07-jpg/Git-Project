@@ -1,9 +1,9 @@
 My Git Project
 
 Today I am learning Git and GitHub.
-I am practising version control.
+I am Practising version control.
 
 I learned how to connect Git with GitHub.
 I successfully pushed my first project.
 
-Practising git restore staged
+Practising my git restore staged
