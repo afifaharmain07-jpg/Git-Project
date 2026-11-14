@@ -1,0 +1,3 @@
+git status - see what Git sees
+git add - stage changes
+git commit - save a snapshot
