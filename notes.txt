@@ -7,8 +7,7 @@ I learned how to connect Git with GitHub.
 I successfully pushed my first project.
 
 Practising my git restore staged
-
 Understanding Git merge conflicts
 
 Learning Git merge conflicts
-
+Today I am learning Git Stash
