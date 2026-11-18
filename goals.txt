@@ -1,2 +1,5 @@
-Use Git every day
-Make my first pull request
+My Learning Goals
+
+Learn JavaScript
+Learn Node.js
+Learn Git and GitHub
