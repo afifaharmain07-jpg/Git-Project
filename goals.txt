@@ -1,4 +1,4 @@
-My Learning Goals
+My Daily Learning Goals
 
 Learn JavaScript
 Learn Node.js
