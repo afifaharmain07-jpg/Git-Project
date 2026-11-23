@@ -7,3 +7,4 @@ My Git Learning Goals
 Learn JavaScript
 Learn Node.js
 Learn Git and GitHub
+Practising Git fetch
