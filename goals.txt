@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 My Daily Learning Goals
+=======
+My Git Learning Goals
+>>>>>>> change-goal
 
 Learn JavaScript
 Learn Node.js
