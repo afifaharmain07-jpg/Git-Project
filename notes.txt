@@ -11,3 +11,4 @@ Understanding Git merge conflicts
 
 Learning Git merge conflicts
 Today I am learning Git Stash
+Learning Git using two different clones
